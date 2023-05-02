@@ -1,24 +1,6 @@
-# todolist
+# Lista de afazeres
 
-## Project setup
-```
-npm install
-```
+## Desenvolvimento com:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Vue.js - Tailwindcss - AXIOS
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
